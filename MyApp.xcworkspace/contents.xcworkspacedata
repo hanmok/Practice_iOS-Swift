@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../FFFFMS/KeyChain/KeyChain.xcodeproj">
+      location = "group:KeyChainPrac/KeyChainPrac.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:MyAwesomeApp/MyAwesomeApp.xcodeproj">
